@@ -36,7 +36,7 @@ $ wc -l ~/career
 $ cat about.md
 ```
 
-Director of Engineering with a career split between **FinTech**, **automotive (GM)**, and platform engineering. I lead teams, architect platforms, and stay close enough to the keyboard to be dangerous.
+Director of Engineering with a career split between **FinTech**, **automotive (GM, OnStar, Delphi)**, and retail (Kmart, Sears). I lead teams, architect platforms, and stay close enough to the keyboard to be dangerous.
 
 Currently deep in **AI integration** — building local model pipelines, evaluating LLM gateways, and shipping production systems on AWS (ECS Fargate, Aurora, Terraform, the works). After hours, I run **FryByNite** with my wife Tracey — a quality-first independent software venture and the home of the maker projects below.
 
