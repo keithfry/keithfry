@@ -42,7 +42,7 @@ Currently deep in **AI integration** — building local model pipelines, evaluat
 
 ---
 
-## `03` // FryByNite — active builds
+## `03` // FryByNite — open source, active builds
 
 ```
 $ ls -la ~/github/frybynite
